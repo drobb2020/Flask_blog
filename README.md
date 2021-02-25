@@ -5,6 +5,4 @@
 
 This is based on a YouTube tutorial presented by [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g). You can find the entire video sessions (15 videos) [here](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH). While Corey may not be posting new content right now his channel is still worth looking at if you are learning Python, Flask or Django.
 
-This is a mostly working example except that I can't seem to get the delete post function to work!
-
 Again this is a learning project for me.
